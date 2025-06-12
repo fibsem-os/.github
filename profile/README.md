@@ -1,5 +1,6 @@
-## Fibsem Operating System (fibsemOS) 🤖
+## Fibsem Operating System 🤖
 
+### fibsemOS
 Work in Progress
 
 
